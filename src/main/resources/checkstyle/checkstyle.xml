@@ -71,10 +71,6 @@
     <!-- http://checkstyle.sourceforge.net/config_filters.html -->
     <module name="SuppressWarningsFilter" />
 
-    <!-- Suppress warnings with comments -->
-    <!-- http://checkstyle.sourceforge.net/config_filters.html -->
-    <module name="SuppressionCommentFilter"/>
-
     <!-- Checks for Headers                                -->
     <!-- See http://checkstyle.sf.net/config_header.html   -->
     <!-- <module name="Header"> -->
@@ -87,7 +83,9 @@
         <!-- http://checkstyle.sourceforge.net/config_filters.html -->
         <module name="SuppressWarningsHolder" />
 
-
+        <!-- Suppress warnings with comments -->
+        <!-- http://checkstyle.sourceforge.net/config_filters.html -->
+        <module name="SuppressionCommentFilter"/>
 
         <!-- Checks for Javadoc comments.                     -->
         <!-- See http://checkstyle.sf.net/config_javadoc.html
