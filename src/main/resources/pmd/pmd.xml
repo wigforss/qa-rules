@@ -67,6 +67,8 @@
         <exclude name="AvoidInstantiatingObjectsInLoops"/> <!-- Might be necessary -->
     </rule>
     <rule ref="category/java/security.xml"/>
-    <rule ref="category/java/multithreading.xml"/>
+    <rule ref="category/java/multithreading.xml">
+        <exclude name="UseConcurrentHashMap"/> <!-- Let the author be a judge of when its needed -->
+    </rule>
 
 </ruleset>
