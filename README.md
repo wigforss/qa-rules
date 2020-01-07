@@ -1,6 +1,7 @@
 # Quality Assurance Rules for Java
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![](https://img.shields.io/badge/package-JAR-blue) 
+![](https://img.shields.io/badge/Package-JAR-2396ad)
+![](https://img.shields.io/badge/Repository-Maven%20Central-2396ad)  
 ![](https://img.shields.io/badge/Java-8%2B-d6a827)
 ![](https://github.com/wigforss/qa-rules/workflows/Test%20and%20Deploy/badge.svg) 
 
