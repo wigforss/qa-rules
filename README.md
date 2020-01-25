@@ -14,7 +14,7 @@ This package contains common QA rule sets for:
 
 As well as a code style template for Idea Intelij.
 
-For Java 8 (or less) there are coverage ignore annotations, which can be configured with Cobertura.
+For Java 7 (or less) there are coverage ignore annotations, which can be configured with Cobertura.
 ```
 @org.kasource.qa.annotation.CoverageIgnore
 @org.kasource.qa.annotation.Generated

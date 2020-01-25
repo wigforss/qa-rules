@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 /**
  * Marks methods as ignore coverage checks due to code generation.
  *
- * Note: Java 10 (or later) projects does not support coverage ignore by annotations, since JaCoCo is used.
+ * Note: Java 8 (or later) projects does not support coverage ignore by annotations, since JaCoCo is used.
  **/
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
