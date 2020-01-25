@@ -19,9 +19,9 @@
       <emptyLine />
       <package name="" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="se.hiq" withSubpackages="true" static="true" />
+      <package name="org.kasource" withSubpackages="true" static="true" />
       <emptyLine />
-      <package name="se.hiq" withSubpackages="true" static="false" />
+      <package name="org.kasource" withSubpackages="true" static="false" />
     </value>
   </option>
   <JavaCodeStyleSettings>
