@@ -121,7 +121,7 @@
             <property name="ordered" value="false"/>
             <property name="separated" value="true"/>
             <property name="separatedStaticGroups" value="true"/>
-            <property name="option" value="top"/>
+            <property name="option" value="above"/>
         </module>
 
         <!-- Checks for Size Violations.                    -->
