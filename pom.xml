@@ -9,7 +9,7 @@
     
 
     <artifactId>qa-rules</artifactId>
-    <version>0.7-SNAPSHOT</version>
+    <version>0.7</version>
     <packaging>jar</packaging>
     <name>QA-Rules</name>
     <description>The Quality Assurance rules for projects</description>
@@ -21,7 +21,7 @@
         <connection>${scm.connection.url}</connection>
         <developerConnection>${scm.connection.url}</developerConnection>
         <url>${scm.url}</url>
-        <tag>HEAD</tag>
+        <tag>qa-rules-0.7</tag>
     </scm>
 
    
