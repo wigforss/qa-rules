@@ -117,7 +117,7 @@
             <property name="processJavadoc" value="false"/>
         </module>
         <module name="ImportOrder">
-            <property name="groups" value="java,javax,/org\.springframework\..*/,*"/>
+            <property name="groups" value="java,javax,org.springframework,org.kasource"/>
             <property name="ordered" value="false"/>
             <property name="separated" value="true"/>
             <property name="separatedStaticGroups" value="true"/>
